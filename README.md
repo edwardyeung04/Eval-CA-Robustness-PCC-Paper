@@ -1,7 +1,5 @@
 # Evaluating Corruption and Adversarial Robustness of Point Cloud Classifiers
 
-# Enhancing Corruption Robustness for Point Cloud Classifiers
-
 Point cloud data is widely used to represent 3D objects in applications such as advanced driver assistance systems (ADAS). However, real-world scenarios often introduce corruptions in point cloud data due to factors like rain or sensor noise. These corruptions can mislead AI models that rely on point cloud data, highlighting the need for robust classification systems. This project focuses on improving corruption robustness in point cloud classifiers through adversarial training, a well-established method for enhancing model robustness against adversarial attacks.
 
 ## Key Contributions
